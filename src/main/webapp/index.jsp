@@ -6,5 +6,5 @@
 }
  %>
  Welcome to Java Vulnerable Lab !<br/><br/>
- A Deliberately vulnerable Web Application built on JAVA designed to teach Web Application Security. 
+ A Deliberately vulnerable Web Application built on JAVA designed to teach Web Application Security. TEst
   <%@ include file="footer.jsp" %>
